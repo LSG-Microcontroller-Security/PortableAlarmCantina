@@ -67,3 +67,10 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+BasicPortableAlarmSystem/BasicPortableAlarmSystem/Debug/
+BasicPortableAlarmSystem/BasicPortableAlarmSystem/Release/
+BasicPortableAlarmSystem/BasicPortableAlarmSystem/__vm/
+BasicPortableAlarmSystem/.vs/PortableAlarmSystem/v15/
+.vs/
+BasicPortableAlarmSystem/Output-MicroBuild.txt
+BasicPortableAlarmSystem/Output-MicroDebugTrace.txt

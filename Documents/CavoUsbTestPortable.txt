@@ -1,0 +1,5 @@
+IL cavo verde corrisponde al pin A4, mentre il covo bianco corrisponde al pin A5.
+Attaccare a porta usb3 di portable 
+
+
+

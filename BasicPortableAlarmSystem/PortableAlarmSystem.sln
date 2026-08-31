@@ -1,0 +1,99 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Eagle", "Eagle", "{0C6B5171-F7F5-4E6F-AC2C-798FFD51A0D8}"
+	ProjectSection(SolutionItems) = preProject
+		..\Eagle\BikeAlarmSystem.brd = ..\Eagle\BikeAlarmSystem.brd
+		..\Eagle\Jack4PinsSupport.brd = ..\Eagle\Jack4PinsSupport.brd
+		..\Eagle\PortableAlarmWithDoubleFace.brd = ..\Eagle\PortableAlarmWithDoubleFace.brd
+		..\Eagle\PortableAlarmWithDoubleFaceAllPlugged.brd = ..\Eagle\PortableAlarmWithDoubleFaceAllPlugged.brd
+		..\Eagle\PortableAlarmWithDoubleFaceAllPlugged2.brd = ..\Eagle\PortableAlarmWithDoubleFaceAllPlugged2.brd
+		..\Eagle\PortableUnityOneWithOutAntirimbalzoV201.brd = ..\Eagle\PortableUnityOneWithOutAntirimbalzoV201.brd
+		..\Eagle\PortableUnityOneWithOutAntirimbalzoV300.brd = ..\Eagle\PortableUnityOneWithOutAntirimbalzoV300.brd
+		..\Eagle\ReedRelaySensor.brd = ..\Eagle\ReedRelaySensor.brd
+		..\Eagle\TransistorSwitchSensor.brd = ..\Eagle\TransistorSwitchSensor.brd
+		..\Eagle\UsbChargeAndStepUpConnector.brd = ..\Eagle\UsbChargeAndStepUpConnector.brd
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3d Printer", "3d Printer", "{E2F2F601-1151-46D5-B7CA-3C3AA53643B8}"
+	ProjectSection(SolutionItems) = preProject
+		..\3d Printer\ConnectorBox.123dx = ..\3d Printer\ConnectorBox.123dx
+		..\3d Printer\Cornice main label.123dx = ..\3d Printer\Cornice main label.123dx
+		..\3d Printer\EnclosureLipoBattery2A.123dx = ..\3d Printer\EnclosureLipoBattery2A.123dx
+		..\3d Printer\Enclousure-A-And-Shell.123dx = ..\3d Printer\Enclousure-A-And-Shell.123dx
+		..\3d Printer\Enclousure-B-And-Shell.123dx = ..\3d Printer\Enclousure-B-And-Shell.123dx
+		..\3d Printer\Enclousure-Safe.123dx = ..\3d Printer\Enclousure-Safe.123dx
+		..\3d Printer\NewEnclosure.123dx = ..\3d Printer\NewEnclosure.123dx
+		..\3d Printer\NFCEnclousure2.123dx = ..\3d Printer\NFCEnclousure2.123dx
+		..\3d Printer\PirSensorBigCase.123dx = ..\3d Printer\PirSensorBigCase.123dx
+		..\3d Printer\ReedRelaySensor.123dx = ..\3d Printer\ReedRelaySensor.123dx
+		..\3d Printer\SensorEnclousure.123dx = ..\3d Printer\SensorEnclousure.123dx
+		..\3d Printer\SostegnoPortableAlarm.123dx = ..\3d Printer\SostegnoPortableAlarm.123dx
+		..\3d Printer\Supporto bici sella.123dx = ..\3d Printer\Supporto bici sella.123dx
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Schemas", "Schemas", "{A9BB984B-BE7C-4461-B32E-C6D333993C20}"
+	ProjectSection(SolutionItems) = preProject
+		..\Documents\Schema\Schema.eddx = ..\Documents\Schema\Schema.eddx
+		..\Documents\Schema\Schema.pdf = ..\Documents\Schema\Schema.pdf
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Links", "Links", "{2601B2B4-608A-41DB-A150-F2E30C51C4C6}"
+	ProjectSection(SolutionItems) = preProject
+		..\Documents\Links\IDC connectors.txt = ..\Documents\Links\IDC connectors.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Labels", "Labels", "{705203C9-41BB-408F-B2CC-79EF7D06804F}"
+	ProjectSection(SolutionItems) = preProject
+		..\Labels\ConnectorBoxLabel.docx = ..\Labels\ConnectorBoxLabel.docx
+		..\Labels\Main label.docx = ..\Labels\Main label.docx
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documents", "Documents", "{89D33BCD-F699-4F09-9D5D-AFDFF27DD668}"
+	ProjectSection(SolutionItems) = preProject
+		..\Documents\CavoUsbTestPortable.txt = ..\Documents\CavoUsbTestPortable.txt
+		Configurations.txt = Configurations.txt
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PortableAlarmSystem", "BasicPortableAlarmSystem\BasicPortableAlarmSystem.vcxproj", "{ACD1CD00-2D74-4298-85AA-96284F0E90C9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{62142BBE-1833-483D-8F24-5D4523907830}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\Users\luigi.santagada\source\repos\ArduinoTeamProjects\Libraries\LSG_ActivityManager\ActivityManager.cpp = ..\..\..\..\Users\luigi.santagada\source\repos\ArduinoTeamProjects\Libraries\LSG_ActivityManager\ActivityManager.cpp
+		..\..\..\..\Users\luigi.santagada\source\repos\ArduinoTeamProjects\Libraries\LSG_ActivityManager\ActivityManager.h = ..\..\..\..\Users\luigi.santagada\source\repos\ArduinoTeamProjects\Libraries\LSG_ActivityManager\ActivityManager.h
+		..\..\..\..\Users\luigi.santagada\source\repos\ArduinoTeamProjects\Libraries\LSG_Sensor\AnalogicSensor.cpp = ..\..\..\..\Users\luigi.santagada\source\repos\ArduinoTeamProjects\Libraries\LSG_Sensor\AnalogicSensor.cpp
+		..\..\..\..\Users\luigi.santagada\source\repos\ArduinoTeamProjects\Libraries\LSG_Sensor\AnalogicSensor.h = ..\..\..\..\Users\luigi.santagada\source\repos\ArduinoTeamProjects\Libraries\LSG_Sensor\AnalogicSensor.h
+		..\..\..\..\Users\luigi.santagada\source\repos\ArduinoTeamProjects\Libraries\BlueToothDynamicInterface\BlueToothCommandsUtil.cpp = ..\..\..\..\Users\luigi.santagada\source\repos\ArduinoTeamProjects\Libraries\BlueToothDynamicInterface\BlueToothCommandsUtil.cpp
+		..\..\..\..\Users\luigi.santagada\source\repos\ArduinoTeamProjects\Libraries\BlueToothDynamicInterface\BlueToothCommandsUtil.h = ..\..\..\..\Users\luigi.santagada\source\repos\ArduinoTeamProjects\Libraries\BlueToothDynamicInterface\BlueToothCommandsUtil.h
+		..\..\..\..\Users\luigi.santagada\source\repos\ArduinoTeamProjects\Libraries\ChipTemp\ChipTemp.cpp = ..\..\..\..\Users\luigi.santagada\source\repos\ArduinoTeamProjects\Libraries\ChipTemp\ChipTemp.cpp
+		..\..\..\..\Users\luigi.santagada\source\repos\ArduinoTeamProjects\Libraries\ChipTemp\ChipTemp.h = ..\..\..\..\Users\luigi.santagada\source\repos\ArduinoTeamProjects\Libraries\ChipTemp\ChipTemp.h
+		..\..\..\..\Users\luigi.santagada\source\repos\ArduinoTeamProjects\Libraries\MyBlueTooth\MyBlueTooth.cpp = ..\..\..\..\Users\luigi.santagada\source\repos\ArduinoTeamProjects\Libraries\MyBlueTooth\MyBlueTooth.cpp
+		..\..\..\..\Users\luigi.santagada\source\repos\ArduinoTeamProjects\Libraries\MyBlueTooth\MyBlueTooth.h = ..\..\..\..\Users\luigi.santagada\source\repos\ArduinoTeamProjects\Libraries\MyBlueTooth\MyBlueTooth.h
+		..\..\..\..\Users\luigi.santagada\source\repos\ArduinoTeamProjects\Libraries\LSG_Utils\MySim900.cpp = ..\..\..\..\Users\luigi.santagada\source\repos\ArduinoTeamProjects\Libraries\LSG_Utils\MySim900.cpp
+		..\..\..\..\Users\luigi.santagada\source\repos\ArduinoTeamProjects\Libraries\LSG_Utils\MySim900.h = ..\..\..\..\Users\luigi.santagada\source\repos\ArduinoTeamProjects\Libraries\LSG_Utils\MySim900.h
+		..\..\..\..\Users\luigi.santagada\source\repos\ArduinoTeamProjects\Libraries\LSG_Sensor\PIRSensor.cpp = ..\..\..\..\Users\luigi.santagada\source\repos\ArduinoTeamProjects\Libraries\LSG_Sensor\PIRSensor.cpp
+		..\..\..\..\Users\luigi.santagada\source\repos\ArduinoTeamProjects\Libraries\LSG_Sensor\PIRSensor.h = ..\..\..\..\Users\luigi.santagada\source\repos\ArduinoTeamProjects\Libraries\LSG_Sensor\PIRSensor.h
+		..\..\..\..\Users\luigi.santagada\source\repos\ArduinoTeamProjects\Libraries\LSG_Sensor\VoltageSensor.cpp = ..\..\..\..\Users\luigi.santagada\source\repos\ArduinoTeamProjects\Libraries\LSG_Sensor\VoltageSensor.cpp
+		..\..\..\..\Users\luigi.santagada\source\repos\ArduinoTeamProjects\Libraries\LSG_Sensor\VoltageSensor.h = ..\..\..\..\Users\luigi.santagada\source\repos\ArduinoTeamProjects\Libraries\LSG_Sensor\VoltageSensor.h
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACD1CD00-2D74-4298-85AA-96284F0E90C9}.Debug|x86.ActiveCfg = Debug|Win32
+		{ACD1CD00-2D74-4298-85AA-96284F0E90C9}.Debug|x86.Build.0 = Debug|Win32
+		{ACD1CD00-2D74-4298-85AA-96284F0E90C9}.Release|x86.ActiveCfg = Release|Win32
+		{ACD1CD00-2D74-4298-85AA-96284F0E90C9}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9101B88E-CF44-4A7F-8792-5442455CE859}
+	EndGlobalSection
+EndGlobal
