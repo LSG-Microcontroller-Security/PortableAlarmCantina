@@ -18,6 +18,6 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="PortableAlarmSystem.ino" />
+    <ClCompile Include="BasicPortableAlarmSystem.ino" />
   </ItemGroup>
 </Project>
