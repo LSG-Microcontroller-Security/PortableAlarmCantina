@@ -210,7 +210,7 @@ void setup()
 
 	_whatIsHappened = F("X");
 
-	//Stare attenti perche' richiede un ritardo che ora è dato da creazione oggetti bluetooth.
+	//Stare attenti perche' richiede un ritardo che ora Ã¨ dato da creazione oggetti bluetooth.
 	mySim900->WaitSMSComing();
 
 	blinkLed();
@@ -594,7 +594,7 @@ void isMotionDetect()
 				callSim900('1');
 				
 			}
-			//Accendo bluetooth con ritardo annesso solo se è scattato allarme,troppo critico
+			//Accendo bluetooth con ritardo annesso solo se Ã¨ scattato allarme,troppo critico
 			//per perdere tempo se non scattato allarme.
 			if (btSerial->isBlueToothOff() && _isFindOutPhonesON == 0)
 			{
