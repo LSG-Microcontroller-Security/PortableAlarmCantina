@@ -75,3 +75,7 @@ BasicPortableAlarmSystem/.vs/PortableAlarmSystem/v15/
 BasicPortableAlarmSystem/Output-MicroBuild.txt
 BasicPortableAlarmSystem/Output-MicroDebugTrace.txt
 BasicPortableAlarmSystem/BasicPortableAlarmSystem/x64/
+GitVersion.generated.h
+GitVersion.generated.tmp
+!GitVersion.h
+__vm/

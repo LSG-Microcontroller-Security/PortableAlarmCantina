@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "arduinoLibraryManager": [],
+  "gitRepositories": [
+    {
+      "url": "https://github.com/MicroControllerTeamProject/libraries",
+      "ref": "3cd5dfde5c411e9ffda0c5cb48165633a0997f1a",
+      "layout": "collection",
+      "subdirectory": ""
+    }
+  ],
+  "projectLibraryPaths": []
+}
